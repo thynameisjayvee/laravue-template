@@ -1,0 +1,13 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/lang-en.js": "/lang-en.js",
+    "/lang-es.js": "/lang-es.js",
+    "/lang-ja.js": "/lang-ja.js",
+    "/lang-en-1.js": "/lang-en-1.js",
+    "/lang-zh-CN.js": "/lang-zh-CN.js",
+    "/lang-en-json.js": "/lang-en-json.js",
+    "/lang-es-json.js": "/lang-es-json.js",
+    "/lang-ja-json.js": "/lang-ja-json.js",
+    "/lang-zh-CN-json.js": "/lang-zh-CN-json.js"
+}
